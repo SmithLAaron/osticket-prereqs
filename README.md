@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1 Enable Internet Information Services In I
+- Item 1 Enable Internet Information Services 
 - Item 2 Web Platform Install
 - Item 3 Install Sequel 
 - Item 4 Install C++ Read Distrubtor
