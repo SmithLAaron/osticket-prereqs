@@ -22,11 +22,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Item 1 Enable Internet Information Services In I
+- Item 2 Web Platform Install
+- Item 3 Install Sequel 
+- Item 4 Install C++ Read Distrubtor
+- Item 5 Configure Permission in OsTicket
 
 <h2>Installation Steps</h2>
 
